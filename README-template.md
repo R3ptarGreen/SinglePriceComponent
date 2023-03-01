@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Single Price Grid Component](https://dazzling-boba-678f24.netlify.app/)
 
 ## My process
 
